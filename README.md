@@ -1,7 +1,13 @@
 # Excel-Ecommerce-Dashboard
-Excel dashboard analyzing e-commerce sales trends and customer behavior
-Excel E-commerce Dashboard
-This project is an Excel dashboard built using PivotTables, charts, and slicers to analyse sales performance.
+This project is an Excel dashboard analyzing e-commerce sales trends and customer behavior using PivotTables, charts, and slicers. The dashboard provides insights into revenue performance, customer satisfaction, and purchasing patterns.
+
+## Tools Used
+- Microsoft Excel
+- PivotTables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Dashboard Design
 
 KPIs
 - Total Orders
@@ -17,9 +23,9 @@ Business Questions
 - Geographic distribution of customers
 - Customer satisfaction levels
 
-Skills Demonstrated
-- Pivot Tables
-- Pivot Charts
-- Excel Dashboard Design
-- Data Cleaning
-- Interactive Slicers
+## Skills Demonstrated
+- Data analysis
+- Business KPI tracking
+- Trend analysis
+- Data visualization
+- Excel dashboard development
